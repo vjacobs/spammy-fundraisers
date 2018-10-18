@@ -19,6 +19,7 @@
 @anduranceventures.com OR
 @angaros.com OR
 @apexmentors.com OR
+@aquaapartners.com OR
 @aratuscapital.com OR
 @ard.se OR
 @ariancapitalpartners.com OR
@@ -34,6 +35,8 @@
 @benchmarkcompany.com OR
 @blacklegendcap.com OR
 @blacklegendcapital.com OR
+@bowstringadvisors.com OR
+@brileyfbr.com OR
 @bristolyork.com OR
 @brugmann-conseil.com OR
 @btcapitalpartners.ro OR
@@ -54,6 +57,7 @@
 @corpcapgrp.com OR
 @creainversion.com OR
 @creocapitaladvisors.com OR
+@creoinvest.co OR
 @crescocapital.co.uk OR
 @crewecapital.com OR
 @crossborder.it OR
@@ -77,6 +81,7 @@
 @envent.it OR
 @epiphanycapital.co.uk OR
 @eponyme-partners.com OR
+@eqfor.com OR
 @equiteasy.com OR
 @equityvp.com OR
 @ergcapitalpartners.com OR
@@ -98,6 +103,7 @@
 @goettingen-cf.com OR
 @greatheadgroup.com OR
 @green2020.co.uk OR
+@greentechchallenge.eu OR
 @gtsecurities.net OR
 @guixer.com OR
 @hallelcapital.com OR
@@ -110,25 +116,33 @@
 @hippocorn.co OR
 @hjort-molte.dk OR
 @hsmi.london OR
+@huntfunding.com OR
 @hymancapitalmarketing.com OR
+@ibcgroup.io OR
+@icapadvisors.co.uk OR
 @icircle.ch OR
 @iconcorpfin.co.uk OR
 @icpr1200.com OR
 @ieg-banking.com OR
+@ieg-banking.us OR
 @igcholdings.com OR
 @incisive-edge.com OR
 @ineocorporate.com OR
 @inextenso-finance.fr OR
 @infasts.com OR
+@infinityfin.com OR
+@innovationcapitaladvisors.co.uk OR
 @innovationpavilion.com OR
 @innovationwarehouse.org OR
 @innovatis-conseil.fr OR
+@intelligentcorporate.co.uk OR
 @interface-entreprises.com OR
 @intersectioncapital.com OR
 @inveniocf.com OR
 @investordealviews.com OR
 @ironbridgecp.com OR
 @ishtaradvisory.co.uk OR
+@itexchangenet.com OR
 @iwcapital.co.uk OR
 @jadeberg-partners.ch OR
 @jcap.eu OR
@@ -137,11 +151,13 @@
 @jrgeorge.com OR
 @jrladdha.in OR
 @kayepacific.com OR
+@kazicapital.com OR
 @kerentech.com OR
 @keystoneadvisers.ee OR
 @klecha-co.com OR
 @knightcf.com OR OR
 @konsultori.com OR
+@landmarkventures.com OR
 @lantian-consulting.com OR
 @lazarusconsulting.net OR
 @lewben.com OR
@@ -159,6 +175,7 @@
 @nerollp.com OR
 @nobleandcompany.com OR
 @northbrightcapital.com OR
+@northsouthcap.com OR
 @noveapartners.com OR
 @numis.com OR
 @oakland-partners.com OR
@@ -167,6 +184,9 @@
 @onetoonecf.us OR
 @orsatech.co OR
 @p2c-partners.com OR
+@pcgadvisory.com OR
+@peaktechnologypartners.com OR
+@planbfundingoptions.com OR
 @plutusintroducers.co.uk OR
 @portfolio.ventures OR
 @positive-capital.com OR 
@@ -194,6 +214,8 @@
 @scottbrothersgroup.co.uk OR
 @sdrventures.com OR
 @se-global.co OR
+@sefico-nexia.com OR
+@senahill.com OR
 @settlucas.com OR
 @shape.capital OR
 @shaughnessygroup.com OR
@@ -224,9 +246,11 @@
 @vetri.org.in OR
 @vhmcapital.com OR
 @wavecrestsecurities.com OR
+@waypointpartners.co.uk OR
 @wemaxcapital.com OR
 @whitehorsecapital.co.uk OR
 @whitepeakpartners.com OR
+@whiterockib.com OR
 @williamblair.com OR
 @williamduncan.co.uk OR
 @willowtreeinc.net OR
